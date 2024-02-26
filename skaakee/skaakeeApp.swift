@@ -8,14 +8,16 @@
 import SwiftUI
 
 @main
+@MainActor
 struct skaakeeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
-
-        ImmersiveSpace(id: "ImmersiveSpace") {
-            ImmersiveView()
+        
+        WindowGroup(id: volumetricViewID) {
+            ChessBoardGame(roomId: "visionPro")
         }
+        .windowStyle(.volumetric)
     }
 }
