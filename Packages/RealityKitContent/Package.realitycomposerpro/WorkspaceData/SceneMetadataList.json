@@ -40,18 +40,6 @@
       [
         "9156B147-E4FC-4098-A766-78D4888E9125",
         "Root",
-        "Sketchfab_model",
-        "_7493b41a3184bb48402285ece0f9170_fbx",
-        "RootNode",
-        "board_low"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "9156B147-E4FC-4098-A766-78D4888E9125",
-        "Root",
         "whole",
         "board_low",
         "board_low_Board_0"
@@ -83,7 +71,22 @@
         "9156B147-E4FC-4098-A766-78D4888E9125",
         "Root",
         "Sketchfab_model",
-        "_7493b41a3184bb48402285ece0f9170_fbx"
+        "_7493b41a3184bb48402285ece0f9170_fbx",
+        "RootNode",
+        "board_low",
+        "board_low_Board_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "9156B147-E4FC-4098-A766-78D4888E9125",
+        "Root",
+        "Sketchfab_model",
+        "_7493b41a3184bb48402285ece0f9170_fbx",
+        "RootNode",
+        "board_low"
       ],
       {
         "isExpanded" : true,
@@ -103,10 +106,7 @@
         "9156B147-E4FC-4098-A766-78D4888E9125",
         "Root",
         "Sketchfab_model",
-        "_7493b41a3184bb48402285ece0f9170_fbx",
-        "RootNode",
-        "board_low",
-        "board_low_Board_0"
+        "_7493b41a3184bb48402285ece0f9170_fbx"
       ],
       {
         "isExpanded" : true,
@@ -130,8 +130,7 @@
     "objectMetadataList" : [
       [
         "74724B01-110D-46C9-A6B0-D8278EF9ACF0",
-        "Root",
-        "Cube"
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -139,7 +138,8 @@
       },
       [
         "74724B01-110D-46C9-A6B0-D8278EF9ACF0",
-        "Root"
+        "Root",
+        "Cube"
       ],
       {
         "isExpanded" : true,
@@ -193,7 +193,8 @@
     "objectMetadataList" : [
       [
         "CB766F92-EE55-4A63-9401-E7B8C009764D",
-        "Root"
+        "Root",
+        "GridMaterial"
       ],
       {
         "isExpanded" : true,
@@ -201,8 +202,7 @@
       },
       [
         "CB766F92-EE55-4A63-9401-E7B8C009764D",
-        "Root",
-        "GridMaterial"
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -219,9 +219,7 @@
     "objectMetadataList" : [
       [
         "D66134B1-3681-4A8E-AFE5-29F257229F3B",
-        "Root",
-        "GridMaterial",
-        "GridMaterial"
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -229,7 +227,9 @@
       },
       [
         "D66134B1-3681-4A8E-AFE5-29F257229F3B",
-        "Root"
+        "Root",
+        "GridMaterial",
+        "GridMaterial"
       ],
       {
         "isExpanded" : true,
@@ -244,104 +244,7 @@
         "Sketchfab_model",
         "_7493b41a3184bb48402285ece0f9170_fbx",
         "RootNode",
-        "king_white_low"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
-        "Sketchfab_model",
-        "_7493b41a3184bb48402285ece0f9170_fbx",
-        "RootNode",
-        "board_low",
-        "board_low_Board_0"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
-        "Sketchfab_model",
-        "_7493b41a3184bb48402285ece0f9170_fbx",
-        "RootNode",
-        "queen_white_low"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
-        "Sketchfab_model",
-        "_7493b41a3184bb48402285ece0f9170_fbx",
-        "RootNode",
-        "queen_white_low",
-        "queen_white_low_White_0"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
-        "Sketchfab_model",
-        "_7493b41a3184bb48402285ece0f9170_fbx",
-        "RootNode",
-        "pawn_white_001_low"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
-        "Sketchfab_model",
-        "_7493b41a3184bb48402285ece0f9170_fbx",
-        "RootNode",
-        "king_white_low",
-        "king_white_low_White_0"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
-        "Sketchfab_model"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
-        "root"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
-        "Sketchfab_model",
-        "_7493b41a3184bb48402285ece0f9170_fbx",
-        "RootNode",
-        "board_low"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
-        "Sketchfab_model",
-        "_7493b41a3184bb48402285ece0f9170_fbx",
-        "RootNode",
-        "pawn_white_001_low",
-        "pawn_white_001_low_White_0"
+        "knight_black_001_low"
       ],
       {
         "isExpanded" : true,
@@ -360,7 +263,69 @@
         "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
         "Sketchfab_model",
         "_7493b41a3184bb48402285ece0f9170_fbx",
+        "RootNode",
+        "king_black_low",
+        "king_black_low_Black_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
+        "Sketchfab_model",
+        "_7493b41a3184bb48402285ece0f9170_fbx",
+        "RootNode",
+        "king_black_low"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
+        "Sketchfab_model"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
+        "Sketchfab_model",
+        "_7493b41a3184bb48402285ece0f9170_fbx",
         "RootNode"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
+        "root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
+        "Sketchfab_model",
+        "_7493b41a3184bb48402285ece0f9170_fbx",
+        "RootNode",
+        "queen_black_low"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "D407180B-C454-4DBD-A5D4-6ABFE27734FE",
+        "Sketchfab_model",
+        "_7493b41a3184bb48402285ece0f9170_fbx",
+        "RootNode",
+        "queen_black_low",
+        "queen_black_low_Black_0"
       ],
       {
         "isExpanded" : true,
@@ -372,8 +337,7 @@
     "objectMetadataList" : [
       [
         "ED2B5FF6-6707-44CB-ABEB-3F588339776D",
-        "Root",
-        "cylinder"
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -389,7 +353,8 @@
       },
       [
         "ED2B5FF6-6707-44CB-ABEB-3F588339776D",
-        "Root"
+        "Root",
+        "cylinder"
       ],
       {
         "isExpanded" : true,

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D3BA43BC2B8DC66700951AE8 /* Starscream in Frameworks */ = {isa = PBXBuildFile; productRef = D3BA43BB2B8DC66700951AE8 /* Starscream */; };
 		D3C1047F2B8C5F7000667B2C /* constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3C1047E2B8C5F7000667B2C /* constants.swift */; };
 		D3C32F682B7DD942009AFD24 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = D3C32F672B7DD942009AFD24 /* RealityKitContent */; };
 		D3C32F6A2B7DD942009AFD24 /* skaakeeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3C32F692B7DD942009AFD24 /* skaakeeApp.swift */; };
@@ -34,6 +35,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3C32F682B7DD942009AFD24 /* RealityKitContent in Frameworks */,
+				D3BA43BC2B8DC66700951AE8 /* Starscream in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -105,6 +107,7 @@
 			name = skaakee;
 			packageProductDependencies = (
 				D3C32F672B7DD942009AFD24 /* RealityKitContent */,
+				D3BA43BB2B8DC66700951AE8 /* Starscream */,
 			);
 			productName = skaakee;
 			productReference = D3C32F622B7DD942009AFD24 /* skaakee.app */;
@@ -134,6 +137,9 @@
 				Base,
 			);
 			mainGroup = D3C32F592B7DD942009AFD24;
+			packageReferences = (
+				D3BA43BA2B8DC66700951AE8 /* XCRemoteSwiftPackageReference "Starscream" */,
+			);
 			productRefGroup = D3C32F632B7DD942009AFD24 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -364,7 +370,23 @@
 		};
 /* End XCConfigurationList section */
 
+/* Begin XCRemoteSwiftPackageReference section */
+		D3BA43BA2B8DC66700951AE8 /* XCRemoteSwiftPackageReference "Starscream" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/daltoniam/Starscream.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.0.6;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
 /* Begin XCSwiftPackageProductDependency section */
+		D3BA43BB2B8DC66700951AE8 /* Starscream */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D3BA43BA2B8DC66700951AE8 /* XCRemoteSwiftPackageReference "Starscream" */;
+			productName = Starscream;
+		};
 		D3C32F672B7DD942009AFD24 /* RealityKitContent */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = RealityKitContent;
